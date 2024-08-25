@@ -1,0 +1,31 @@
+BASIC ML
+
+CREDIT CARD (NLP)
+MOVIE SIMILARITY (NLP)
+DOG CAT CLASSIFIER (DL)
+BRITISH AIRWAYS(NLP AND WE SCRAPPING)
+PLOTLY MAP PROJECT (VISUALIZATION)
+Email spam (DL)
+
+
+INTERMEDIATE ML
+
+DISEASE PREDICTOR(STREAMLIT)
+ABALONE (DATA ANALYSIS)
+NLP APP (FLASK)
+Capstone project(ML)
+8Different kind of skin classification(dl)
+Speech emotion recognization(NLP)
+WhatsApp chat analyser(Nlp)
+
+
+ADVANCED ML
+
+HM(DL)
+ONE SHOT STYLIZATION(DL)
+BLOOD group (CV)
+SELF-DRIVING CARS(Cv) 
+Ai ASSistant for doctors and patients(LLMS)
+
+
+
